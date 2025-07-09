@@ -1,0 +1,11 @@
+torch
+torchvision
+torchsummary
+numpy
+pandas
+cv2
+joblib
+matplotlib
+seaborn
+sklearn
+ucimlrepo
